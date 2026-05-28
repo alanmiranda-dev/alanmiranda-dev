@@ -16,3 +16,6 @@
     </td>
   </tr>
 </table>
+
+
+![Jogo da Cobrinha](https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake-dark.svg)
