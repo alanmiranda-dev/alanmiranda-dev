@@ -14,7 +14,7 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=alanmiranda-dev&theme=dark" alt="GitHub Streak Stats" />
       <br />
       <!-- Cartão de Linguagens (URL Alternativa e Estável) -->
-      <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=alanmiranda-dev&layout=compact&theme=dark" alt="Top Languages" />
+      <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=alanmiranda-dev&layout=compact&theme=dark"/>
     </td>
   </tr>
 </table>
