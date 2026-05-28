@@ -1,16 +1,18 @@
-## Hi there 👋
-
-<!--
-**alanmiranda-dev/alanmiranda-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👋 Olá, eu sou o @SEU_USUARIO</h3>
+      <ul>
+        <li>🌱 Atualmente estou aprendendo...</li>
+        <li>👯 Busco colaborar em...</li>
+        <li>📫 Como me encontrar: seu.email@gmail.com</li>
+        <li>⚡ Fato curioso: ...</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dark" alt="GitHub Streak Stats" />
+      <br />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
