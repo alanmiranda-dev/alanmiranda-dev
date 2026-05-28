@@ -1,12 +1,12 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>👋 Olá, eu sou o @SEU_USUARIO</h3>
+      <h3>👋 Hi, I’m @alanmiranda-dev</h3>
       <ul>
-        <li>🌱 Atualmente estou aprendendo...</li>
-        <li>👯 Busco colaborar em...</li>
-        <li>📫 Como me encontrar: seu.email@gmail.com</li>
-        <li>⚡ Fato curioso: ...</li>
+        <li>🌱 I’m currently learning Framework Development</li>
+        <li>👯 I’m looking to collaborate on basic AI projects</li>
+        <li>📫 How to reach me: alan02miranda@gmail.com</li>
+        <li>⚡ Fun fact: ...</li>
       </ul>
     </td>
     <td width="50%" valign="top">
